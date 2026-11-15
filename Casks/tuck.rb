@@ -1,6 +1,6 @@
 cask "tuck" do
-  version "1.2.0"
-  sha256 "6c83115c3c70683d248fbf41079fa9dc9a2771e057e19b8257df5867dd915cae"
+  version "1.2.1"
+  sha256 "4522acbf738ec618ee72efc7ecafef9a4e7e5135e37e85f405b24a0e44cd2816"
 
   url "https://github.com/twodxme/macos-tuck/releases/download/v#{version}/Tuck.zip"
   name "Tuck"
